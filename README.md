@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@drexmose">
-    <img alt="Shan docs" height="300" src="[https://i.imgur.com/tODY8OM.jpeg](https://i.imgur.com/tODY8OM.jpeg)">
+    <img alt="Shan docs" height="300" src="[https://i.imgur.com/tODY8OM.jpeg">
   </a>
 </p>
     
