@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@drexmose">
-        <img alt="Suhail docs" height="500" width="400" src="https://i.imgur.com/tODY8OM.jpeg">
+        <img alt="Shan docs" height="500" width="400" src="https://i.imgur.com/tODY8OM.jpeg">
   </a>
 </p>
     
@@ -42,11 +42,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/drexmose/Shan-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://shan-web01.vercel.app/deploy.html"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdrexmose%2FShan-md%2Ftree%2Fmain%3Ftab"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
   <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/drexmose/Shan-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254102074064&env[MONGODB_URI]&&env[OWNER_NAME]=Shan&env[KOYEB_API]&env[PREFIX]=&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=𝐒𝐇𝐀𝐍-𝐌𝐃&env[PACK_NAME]=+©©𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞⸙'&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Kenya&name=shan-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/tODY8OM.jpeg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
@@ -108,6 +108,6 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 - [Sam Pamday](https://github.com/Sampandey001) 
 
 
-The Suhail_Md is made available under the [GPL-3 license](https://github.com/drexmose/Shan-Md/blob/main/LICENCE).
+The Shan_Md is made available under the [GPL-3 license](https://github.com/drexmose/Shan-Md/blob/main/LICENCE).
 
 ##[`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/drexmose/Shan-Md)
