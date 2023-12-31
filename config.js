@@ -15,7 +15,7 @@ global.DATABASE_URI=process.env.DATABASE_URL
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.scan="https://replit.com/@SuhailTechInfo/SuhailMdPairingCode?v=1";
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Nairobi/Kenya";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Kenya/Africa";
 global.github=process.env.GITHUB|| "https://github.com/drexmose/Shan-md";
 global.gurl= process.env.GURL   || "https://chat.whatsapp.com/D5fn3uTfgPAHL9NKNuyF0G";
 global.website =process.env.GURL|| "https://chat.whatsapp.com/D5fn3uTfgPAHL9NKNuyF0G" ; 
