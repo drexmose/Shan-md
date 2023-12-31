@@ -1,4 +1,4 @@
-hbuild:
+build:
   docker:
       worker: /lib/Dockerfile
 run:
