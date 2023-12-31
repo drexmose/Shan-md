@@ -86,7 +86,7 @@
 3.  ***Click [`FORK`](https://github.com/drexmose/Shan-Md/fork) and `Star ⭐ Repository` if you Like that Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://shan-web01.vercel.app/deploy.html)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdrexmose%2FShan-md%2Ftree%2Fmain%3Ftab)***
 7.  ***Deploy on [`Replit`](https://shan-web01.vercel.app/replit.html)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/drexmose/Shan-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254102074064&env[MONGODB_URI]&&env[OWNER_NAME]=𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=𝐒𝐇𝐀𝐍-𝐌𝐃&env[PACK_NAME]=©𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞⸙'&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Kenya&name=shan-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/tODY8OM.jpeg)***
