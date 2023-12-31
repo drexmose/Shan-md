@@ -1,14 +1,14 @@
 {
-   "name": "suhail-md",
+   "name": "shan-md",
    "version": "1.2.7",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Drex.",
    "main": "lib/client.js",
    "type": "commonjs",
    "scripts": {
-             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
-             "stop": "pm2 stop Suhail"
+             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Shan",
+             "stop": "pm2 stop Shan"
    },
-   "author": "SuhailTechInfo",
+   "author": "drexmose",
  
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -67,10 +67,10 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+             "url": "git+https://github.com/drexmose/Shan-Md.git"
    },
    "bugs": {
-             "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
+             "url": "https://github.com/drexmose/Shan-Md/issues"
    },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "homepage": "https://github.com/drexmose/Shan-Md#readme"
 }
