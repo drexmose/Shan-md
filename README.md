@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@drexmose">
-        <img alt="Suhail docs" height="500" src="https://i.imgur.com/tODY8OM.jpeg">
+        <img alt="Suhail docs" height="500" width="400" src="https://i.imgur.com/tODY8OM.jpeg">
   </a>
 </p>
     
